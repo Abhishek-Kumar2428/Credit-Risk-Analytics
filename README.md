@@ -1,5 +1,7 @@
 # Credit Risk Analytics Dashboard
 
+![Credit Risk Analytics Dashboard Preview](dashboard/dashboard_preview.png)
+
 ## Project Overview
 
 This project analyzes credit card customer data to identify patterns associated with payment default risk. It uses Power BI to build an interactive dashboard that helps explore customer demographics, credit limits, repayment behaviour, and default rates.
@@ -84,7 +86,8 @@ DIVIDE(
 Credit-Risk-Analytics/
 ├── dashboard/
 │   ├── Credit_Risk_Analytics.pbix
-│   └── Credit_Risk_Analytics.pdf
+│   ├── Credit_Risk_Analytics.pdf
+│   └── dashboard_preview.png
 ├── data/
 │   └── credit_card_default.csv
 ├── outputs/
